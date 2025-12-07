@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# RSA Keys - MUST IGNORE THESE!
+*.pem
+
+# Generated files
+global_models/
+client_updates/
+*.pkl
+*.json
+
+# Virtual environment
+venv/
+env/
+
+# OS files
+.DS_Store
